@@ -3,7 +3,7 @@
 Updated version of my Pong game
 
 Updates:
-*Title Screen
+* Title Screen
 *Win Screen
 *Settings
   *Ball speed choice
