@@ -4,6 +4,6 @@ Updated version of my Pong game
 
 Updates:
 * Title Screen
-*Win Screen
-*Settings
-  *Ball speed choice
+* Win Screen
+* Settings
+  * Ball speed choice
