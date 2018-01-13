@@ -2,7 +2,7 @@
 
 Updated version of my Pong game
 
-Updates:
+<strong>Updates:</strong>
 * Title Screen
 * Win Screen
 * Settings
